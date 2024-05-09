@@ -32,6 +32,8 @@
 
 <h3>:hammer_and_wrench: Languages and Tools : </h3>
 
+<br/>
+
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,sass,vscode,github,figma,ps,firebase,babel,styledcomponents,bootstrap,mui,figma,tailwind,git,vite,npm," width="1200" ;
 </div>
