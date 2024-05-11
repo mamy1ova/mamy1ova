@@ -4,7 +4,7 @@
 
 <div>
 <h1 align="center">Hi! 👋🏻 I'm Meerim 🦋</h1>
-<h2 align="center">Frontend Developer from Kyrgyzstan 🇰🇬</h2>
+<h2 align="center">Frontend developer from Kyrgyzstan 🇰🇬</h2>
 </div>
 
 <br/>
