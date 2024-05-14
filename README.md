@@ -50,3 +50,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamy1ova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img width="1600" src="https://raw.githubusercontent.com/bimashazaman/Github-snake-SVG/master/snake.svg" alt="" />
+
