@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-AD88C6?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  <a href="t.me/mr1mka">
+  <a href="https://t.me/mr1mka">
     <img src="https://img.shields.io/badge/Telegram-E1AFD1?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
