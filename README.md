@@ -1,15 +1,15 @@
-<div align="center">
-  <img width="600" src="https://64.media.tumblr.com/fbc6f9608cc5e61a377e126018d5cd64/68089e9fab46dac3-e0/s640x960/71460d8a23d18df13e519649e362dc8fa61a1b7b.gifv" />
+<div>
+  <img src="https://64.media.tumblr.com/fbc6f9608cc5e61a377e126018d5cd64/68089e9fab46dac3-e0/s640x960/71460d8a23d18df13e519649e362dc8fa61a1b7b.gifv" />
 </div>
 
 <div>
-<h1 align="center">Hi! 👋🏻 I'm Meerim 🦋</h1>
-<h2 align="center">Frontend developer from Kyrgyzstan 🇰🇬</h2>
+<h1>Hi! 👋🏻 I'm Meerim 🦋</h1>
+<h2>Frontend developer from Kyrgyzstan 🇰🇬</h2>
 </div>
 
 <br/>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/meer1m/">
     <img src="https://img.shields.io/badge/LinkedIn-7469B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
