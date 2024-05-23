@@ -32,7 +32,7 @@
 
 <img width="1600" src="https://raw.githubusercontent.com/bimashazaman/Github-snake-SVG/master/snake.svg" alt="" />
 
-<h3>:hammer_and_wrench: Languages and Tools : </h3>
+<h3>:hammer_and_wrench: Languages and Tools: </h3>
 
 <br/>
 
@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<h3>:fire: My Stats :</h3>
+<h3>:fire: My Stats:</h3>
 
 <br/>
 
