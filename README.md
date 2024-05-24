@@ -22,9 +22,6 @@
     <img src="https://img.shields.io/badge/Telegram-E1AFD1?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-   <a href="https://mkerkibasheva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFD0EC?style=for-the-badge&logo=Gmail&logoColor=fff" alt="Email Badge"/>
-  </a>
 </div>
 
 <hr/>
