@@ -3,8 +3,11 @@
 </div>
 
 <div>
-<h1>Hi! I'm Meerim🦋</h1>
-<h2>Frontend developer from Kyrgyzstan 🇰🇬</h2>
+<h1>Hi! I'm Meerim <img src="https://media.tenor.com/f0wBEby1q3gAAAAi/borboletas-butterflies.gif" height="44"/></h1>
+
+<a href="https://github.com/Elkhan2003">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=f7adda&lines=Frontend+developer+from+Kyrgyzstan"/>
+</a>
 </div>
 
 <br/>
